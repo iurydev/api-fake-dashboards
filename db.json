@@ -1,7 +1,7 @@
 {
 "users": [
 {"id": 1, "name": "Iury Rodrigues", "occupation": "Developer", "email": "iurydev@gmail.com" },
-{"id": 1, "name": "Metheus Rodrigues", "occupation": "Developer and English Teacher", "email": "matheusrodrigues@gmail.com" },
-{"id": 1, "name": "Marcos Souza", "occupation": "Back-End Developer", "email": "marcosdev@gmail.com" }
+{"id": 2, "name": "Metheus Rodrigues", "occupation": "Developer and English Teacher", "email": "matheusrodrigues@gmail.com" },
+{"id": 3, "name": "Marcos Souza", "occupation": "Back-End Developer", "email": "marcosdev@gmail.com" }
 ]
 }
